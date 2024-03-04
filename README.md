@@ -49,8 +49,9 @@ from .models import Book_Details,Book_DetailsAdmin
 admin.site.register(Book_Details,Book_DetailsAdmin)cg
 ```
 ## OUTPUT
-![Uploading Screenshot 2024-02-28 093754.png…]()
 
+
+![Uploading Screenshot 2024-02-28 093754.png…]()
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
