@@ -6,8 +6,8 @@ To develop a Django application to store and retrieve data from a Book database 
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
-![alt text](<../ORM/Screenshot 2024-02-28 163704.png>)
+![Screenshot 2024-02-28 163704](https://github.com/Lathika2006/ORM/assets/148959215/02cdf033-5e28-4dbd-8f6b-e8f09e9c5e15)
+
 
 ## DESIGN STEPS
 
@@ -48,9 +48,9 @@ from django .contrib import admin
 from .models import Book_Details,Book_DetailsAdmin
 admin.site.register(Book_Details,Book_DetailsAdmin)cg
 ```
-
 ## OUTPUT
-![alt text](<../ORM/Screenshot 2024-02-28 163704.png>)
+![Uploading Screenshot 2024-02-28 093754.png…]()
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
