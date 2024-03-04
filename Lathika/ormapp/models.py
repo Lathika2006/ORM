@@ -10,5 +10,5 @@ class Book_Details(models.Model):
 	No_of_Chapters=models.IntegerField()
 	Year=models.IntegerField(max_length=4,help_text="Published")
 class Book_DetailsAdmin(admin.ModelAdmin):
-	list_Display=("Book_name","Book_serial_number","author_name","No_of_pages","Genre","No_of_Characters","No_of_Chapters","Year");
+	list_display=("Book_name","Book_serial_number","author_name","No_of_pages","Genre","No_of_Characters","No_of_Chapters","Year");
 
